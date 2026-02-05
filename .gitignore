@@ -30,7 +30,7 @@ docker-compose*.yml.bak
 **/.DS_Store
 
 # Local development databases / caches (if any leak outside src/)
-database
+/database
 
 # OS / editor files
 .DS_Store
