@@ -24,9 +24,7 @@ coverage/
 docker-compose.override.yml
 docker-compose.override.yaml
 *.dockerignore
-Dockerfile*
 docker-compose*.yml.bak
-*.docker-compose.yml
 **/.DS_Store
 
 # Local development databases / caches (if any leak outside src/)
